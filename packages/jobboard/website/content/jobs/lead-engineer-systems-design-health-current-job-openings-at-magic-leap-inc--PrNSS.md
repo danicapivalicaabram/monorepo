@@ -1,17 +1,18 @@
 ---
-title: "Lead Engineer"
+title: "Lead Engineer, Systems Design, Health"
 location: "Remote"
 host: "https://boards.greenhouse.io/magicleapinc"
-companyName: "Magic Leap, Inc."
+companyName: "Current Job Openings at Magic Leap, Inc."
 url: "https://boards.greenhouse.io/magicleapinc/jobs/2464674"
 applyUrl: "https://boards.greenhouse.io/magicleapinc/jobs/2464674#app"
 timestamp: 1607299200000
-hashtags: "#python,#matlab,#analysis,#operations,#scrum"
-jobType: "software"
+hashtags: "#ui/ux,#management,#python,#matlab,#analysis,#operations,#scrum"
+jobType: "other"
+
 companyWebsite: "https://boards.greenhouse.io/magicleapinc"
-summary: "Magic Leap, Inc. is searching for a lead engineer that has 7+ years in a similar role of project and product development in a regulatory."
+summary: "Current Job Openings at Magic Leap, Inc. is searching for a lead engineer that has 7+ years in a similar role of project and product development in a regulatory."
 summaryBackup: "Excited about #ui/ux, #management, #python? Check out this job post!"
-featured: 10
+featured: 20
 ---
 
 ## Job Description
