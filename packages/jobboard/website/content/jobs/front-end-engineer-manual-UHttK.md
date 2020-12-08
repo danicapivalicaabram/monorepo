@@ -6,13 +6,13 @@ companyName: "Manual"
 url: "https://manual.recruitee.com/o/front-end-engineer-london"
 applyUrl: "https://manual.recruitee.com/o/front-end-engineer-london/c/new"
 timestamp: 1607299200000
-hashtags: "#reactjs,#javascript,#css,#php,#laravel,#jquery,#ui/ux,#heroku"
+hashtags: "#reactjs,#php,#javascript,#laravel,#jquery,#python,#rubylang,#ui/ux,#heroku,#css"
 jobType: "software"
 logoUrl: "https://jobboard-logos-bucket.s3.eu-central-1.amazonaws.com/manual"
 companyWebsite: "https://www.manual.co/"
-summary: "If you have 3+ years experience with React, JavaScript, HTML, CSS as well as libraries and frameworks like LESS, SASS, Grunt, and jQuery, Manual has a job opening for a front end engineer"
+summary: "If you have 3+ years experience with React, JavaScript, HTML, CSS as well as libraries and frameworks like LESS, SASS, Grunt, jQuery etc, Manual has a job opening for a front end engineer"
 summaryBackup: "Manual is looking for a front end engineer that has experience in: #reactjs, #php, #javascript."
-featured: 3
+featured: 20
 ---
 
 ## Job description
